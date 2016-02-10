@@ -5,5 +5,5 @@
 * [Vegetarisches Essen](vegetarisches_essen.md)
 * Essen mit Fleisch
 * Desserts
-* Tipps und Tricks
+* [Tipps und Tricks](tipps_und_tricks.md)
 
