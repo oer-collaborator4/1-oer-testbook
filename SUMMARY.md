@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Vorspeisen](vorspeisen.md)
-* Vegetarisches Essen
+* [Vegetarisches Essen](vegetarisches_essen.md)
 * Essen mit Fleisch
 * Desserts
 
