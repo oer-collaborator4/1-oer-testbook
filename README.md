@@ -1,6 +1,3 @@
-My Awesome Book
-=======
+# Übungsbuch
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-Ich schreib hier was anderes hin.
+Dieses Buch dient der Vorbereitung des Workshops in Berlin.
