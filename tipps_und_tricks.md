@@ -1,2 +1,0 @@
-# Tipps und Tricks
-
